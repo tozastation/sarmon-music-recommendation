@@ -10,4 +10,6 @@ from models.artist import Artist
 class Track:
     id: str
     uri: str
+    name: str
+    link: str
     artists: list[Artist]

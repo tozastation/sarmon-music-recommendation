@@ -41,11 +41,15 @@ for idx, item in enumerate(target_playlist['tracks']['items']):
         many=True,
         unknown=EXCLUDE,
     )
+    track_name: str = item['track']['name']
+    track_link: str = item['track']['external_urls']['spotify']
     image_x64 = item['track']['album']['images'][2]
     tracks.append(Track(
         id=track_id,
         uri=track_uri,
         artists=track_artists,
+        name=track_name,
+        link=track_link
     ))
 
 #print(tracks)

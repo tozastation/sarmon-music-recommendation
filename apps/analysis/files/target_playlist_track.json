@@ -1,1349 +1,1549 @@
 [
   {
+    "name": "Magic (feat. Kyle Reynolds)",
     "uri": "spotify:track:4oLsOudIsf5p1yXVjqoOrc",
+    "link": "https://open.spotify.com/track/4oLsOudIsf5p1yXVjqoOrc",
     "artists": [
       {
-        "uri": "spotify:artist:7HMpxXbzJOXYZyRiV0hvZn",
         "name": "Asketa & Natan Chaim",
+        "uri": "spotify:artist:7HMpxXbzJOXYZyRiV0hvZn",
         "id": "7HMpxXbzJOXYZyRiV0hvZn"
       },
       {
-        "uri": "spotify:artist:5yhR0OqJhkbQ2y76XUte3R",
         "name": "Kyle Reynolds",
+        "uri": "spotify:artist:5yhR0OqJhkbQ2y76XUte3R",
         "id": "5yhR0OqJhkbQ2y76XUte3R"
       }
     ],
     "id": "4oLsOudIsf5p1yXVjqoOrc"
   },
   {
+    "name": "U Make Me - Natan Chaim & Asketa Remix",
     "uri": "spotify:track:6CfZZXQlnlpXv1FYaAGove",
+    "link": "https://open.spotify.com/track/6CfZZXQlnlpXv1FYaAGove",
     "artists": [
       {
-        "uri": "spotify:artist:7G7KvDCLdVG0Ok511Iqc9U",
         "name": "Disco Fries",
+        "uri": "spotify:artist:7G7KvDCLdVG0Ok511Iqc9U",
         "id": "7G7KvDCLdVG0Ok511Iqc9U"
       },
       {
-        "uri": "spotify:artist:1FOw6qIycSqShZV57QtDIX",
         "name": "Raquel Castro",
+        "uri": "spotify:artist:1FOw6qIycSqShZV57QtDIX",
         "id": "1FOw6qIycSqShZV57QtDIX"
       }
     ],
     "id": "6CfZZXQlnlpXv1FYaAGove"
   },
   {
+    "name": "Rockabye (feat. Sean Paul & Anne-Marie)",
     "uri": "spotify:track:2hrUO4drrO63i7FYbCLBl2",
+    "link": "https://open.spotify.com/track/2hrUO4drrO63i7FYbCLBl2",
     "artists": [
       {
-        "uri": "spotify:artist:6MDME20pz9RveH9rEXvrOM",
         "name": "Clean Bandit",
+        "uri": "spotify:artist:6MDME20pz9RveH9rEXvrOM",
         "id": "6MDME20pz9RveH9rEXvrOM"
       }
     ],
     "id": "2hrUO4drrO63i7FYbCLBl2"
   },
   {
+    "name": "LA LA LAND (feat. Delaney Jane) - Breathe Carolina Remix Edit",
     "uri": "spotify:track:79A5WcqhrMLPrJWDm8JiYQ",
+    "link": "https://open.spotify.com/track/79A5WcqhrMLPrJWDm8JiYQ",
     "artists": [
       {
-        "uri": "spotify:artist:5X4LWwbUFNzPkEas04uU82",
         "name": "DVBBS",
+        "uri": "spotify:artist:5X4LWwbUFNzPkEas04uU82",
         "id": "5X4LWwbUFNzPkEas04uU82"
       },
       {
-        "uri": "spotify:artist:0BBwlSQvHHtahgYpLj1wJE",
         "name": "Shaun Frank",
+        "uri": "spotify:artist:0BBwlSQvHHtahgYpLj1wJE",
         "id": "0BBwlSQvHHtahgYpLj1wJE"
       }
     ],
     "id": "79A5WcqhrMLPrJWDm8JiYQ"
   },
   {
+    "name": "Dead Love",
     "uri": "spotify:track:22YDVjb11sstVqDkUaBhUE",
+    "link": "https://open.spotify.com/track/22YDVjb11sstVqDkUaBhUE",
     "artists": [
       {
-        "uri": "spotify:artist:7yOWqfe8iP613Ne5SV9XPP",
         "name": "Wahlstedt",
+        "uri": "spotify:artist:7yOWqfe8iP613Ne5SV9XPP",
         "id": "7yOWqfe8iP613Ne5SV9XPP"
       },
       {
-        "uri": "spotify:artist:5tcUxI9b1o0wySvepf23vh",
         "name": "Backs",
+        "uri": "spotify:artist:5tcUxI9b1o0wySvepf23vh",
         "id": "5tcUxI9b1o0wySvepf23vh"
       }
     ],
     "id": "22YDVjb11sstVqDkUaBhUE"
   },
   {
+    "name": "Get Away (feat. Rama Duke)",
     "uri": "spotify:track:7G2Ax4k5WN0fGlQZQKWXwr",
+    "link": "https://open.spotify.com/track/7G2Ax4k5WN0fGlQZQKWXwr",
     "artists": [
       {
-        "uri": "spotify:artist:53M4Iv2RkzzxFFvW2B1jhC",
         "name": "Breathe Carolina",
+        "uri": "spotify:artist:53M4Iv2RkzzxFFvW2B1jhC",
         "id": "53M4Iv2RkzzxFFvW2B1jhC"
       },
       {
-        "uri": "spotify:artist:7HMpxXbzJOXYZyRiV0hvZn",
         "name": "Asketa & Natan Chaim",
+        "uri": "spotify:artist:7HMpxXbzJOXYZyRiV0hvZn",
         "id": "7HMpxXbzJOXYZyRiV0hvZn"
       },
       {
-        "uri": "spotify:artist:3X99p7B7g1mSgjDeQwb0dp",
         "name": "Rama Duke",
+        "uri": "spotify:artist:3X99p7B7g1mSgjDeQwb0dp",
         "id": "3X99p7B7g1mSgjDeQwb0dp"
       }
     ],
     "id": "7G2Ax4k5WN0fGlQZQKWXwr"
   },
   {
+    "name": "Call You Mine (feat. Bebe Rexha) - Asketa & Natan Chaim Remix",
     "uri": "spotify:track:5EdYlCWou17k0N1PADLKfO",
+    "link": "https://open.spotify.com/track/5EdYlCWou17k0N1PADLKfO",
     "artists": [
       {
-        "uri": "spotify:artist:69GGBxA162lTqCwzJG5jLp",
         "name": "The Chainsmokers",
+        "uri": "spotify:artist:69GGBxA162lTqCwzJG5jLp",
         "id": "69GGBxA162lTqCwzJG5jLp"
       },
       {
-        "uri": "spotify:artist:64M6ah0SkkRsnPGtGiRAbb",
         "name": "Bebe Rexha",
+        "uri": "spotify:artist:64M6ah0SkkRsnPGtGiRAbb",
         "id": "64M6ah0SkkRsnPGtGiRAbb"
       }
     ],
     "id": "5EdYlCWou17k0N1PADLKfO"
   },
   {
+    "name": "Get Get Down - Asketa & Natan Chaim Remix",
     "uri": "spotify:track:5zgDl5snSgXfaTZhw73zul",
+    "link": "https://open.spotify.com/track/5zgDl5snSgXfaTZhw73zul",
     "artists": [
       {
-        "uri": "spotify:artist:6ZXRsQeAoGPspf8tNeEtPo",
         "name": "Tom & Jame",
+        "uri": "spotify:artist:6ZXRsQeAoGPspf8tNeEtPo",
         "id": "6ZXRsQeAoGPspf8tNeEtPo"
       },
       {
-        "uri": "spotify:artist:7HMpxXbzJOXYZyRiV0hvZn",
         "name": "Asketa & Natan Chaim",
+        "uri": "spotify:artist:7HMpxXbzJOXYZyRiV0hvZn",
         "id": "7HMpxXbzJOXYZyRiV0hvZn"
       }
     ],
     "id": "5zgDl5snSgXfaTZhw73zul"
   },
   {
+    "name": "#HHC4L",
     "uri": "spotify:track:2SUWcMrH19tfymJbNo7fXc",
+    "link": "https://open.spotify.com/track/2SUWcMrH19tfymJbNo7fXc",
     "artists": [
       {
-        "uri": "spotify:artist:7HvystfBAIH8khkGVO4vne",
         "name": "Parker",
+        "uri": "spotify:artist:7HvystfBAIH8khkGVO4vne",
         "id": "7HvystfBAIH8khkGVO4vne"
       },
       {
-        "uri": "spotify:artist:1J0JESP0VUhLs4zYm62l5Q",
         "name": "Drakk",
+        "uri": "spotify:artist:1J0JESP0VUhLs4zYm62l5Q",
         "id": "1J0JESP0VUhLs4zYm62l5Q"
       }
     ],
     "id": "2SUWcMrH19tfymJbNo7fXc"
   },
   {
+    "name": "Byte",
     "uri": "spotify:track:20hsdn8oITBsuWNLhzr5eh",
+    "link": "https://open.spotify.com/track/20hsdn8oITBsuWNLhzr5eh",
     "artists": [
       {
-        "uri": "spotify:artist:60d24wfXkVzDSfLS6hyCjZ",
         "name": "Martin Garrix",
+        "uri": "spotify:artist:60d24wfXkVzDSfLS6hyCjZ",
         "id": "60d24wfXkVzDSfLS6hyCjZ"
       },
       {
-        "uri": "spotify:artist:4mHAu7NX2UNsnGXjviBD9e",
         "name": "Brooks",
+        "uri": "spotify:artist:4mHAu7NX2UNsnGXjviBD9e",
         "id": "4mHAu7NX2UNsnGXjviBD9e"
       }
     ],
     "id": "20hsdn8oITBsuWNLhzr5eh"
   },
   {
+    "name": "Walidwipa",
     "uri": "spotify:track:7c1wTNdrMX29n0jDjVwQNR",
+    "link": "https://open.spotify.com/track/7c1wTNdrMX29n0jDjVwQNR",
     "artists": [
       {
-        "uri": "spotify:artist:0v7ijjL7xRpUO5P9zfYqO2",
         "name": "Jinaction",
+        "uri": "spotify:artist:0v7ijjL7xRpUO5P9zfYqO2",
         "id": "0v7ijjL7xRpUO5P9zfYqO2"
       }
     ],
     "id": "7c1wTNdrMX29n0jDjVwQNR"
   },
   {
+    "name": "Zoo",
     "uri": "spotify:track:7sEwz6PjhQ1bbSSWb6IBid",
+    "link": "https://open.spotify.com/track/7sEwz6PjhQ1bbSSWb6IBid",
     "artists": [
       {
-        "uri": "spotify:artist:1z4g3DjTBBZKhvAroFlhOM",
         "name": "Red Velvet",
+        "uri": "spotify:artist:1z4g3DjTBBZKhvAroFlhOM",
         "id": "1z4g3DjTBBZKhvAroFlhOM"
       }
     ],
     "id": "7sEwz6PjhQ1bbSSWb6IBid"
   },
   {
+    "name": "No Crime",
     "uri": "spotify:track:41mFDh95BcXwmay7wvrv9A",
+    "link": "https://open.spotify.com/track/41mFDh95BcXwmay7wvrv9A",
     "artists": [
       {
-        "uri": "spotify:artist:7HMpxXbzJOXYZyRiV0hvZn",
         "name": "Asketa & Natan Chaim",
+        "uri": "spotify:artist:7HMpxXbzJOXYZyRiV0hvZn",
         "id": "7HMpxXbzJOXYZyRiV0hvZn"
       },
       {
-        "uri": "spotify:artist:5HjbKQXMhybveoJOsOXS07",
         "name": "Jess Ball",
+        "uri": "spotify:artist:5HjbKQXMhybveoJOsOXS07",
         "id": "5HjbKQXMhybveoJOsOXS07"
       }
     ],
     "id": "41mFDh95BcXwmay7wvrv9A"
   },
   {
+    "name": "Super Badass",
     "uri": "spotify:track:3x5Zm7FudR5n1RgUhQFNKn",
+    "link": "https://open.spotify.com/track/3x5Zm7FudR5n1RgUhQFNKn",
     "artists": [
       {
-        "uri": "spotify:artist:25iPl8VJFDu38JMFF6uMXI",
         "name": "USAO",
+        "uri": "spotify:artist:25iPl8VJFDu38JMFF6uMXI",
         "id": "25iPl8VJFDu38JMFF6uMXI"
       }
     ],
     "id": "3x5Zm7FudR5n1RgUhQFNKn"
   },
   {
+    "name": "Don't Need You",
     "uri": "spotify:track:5nKoSBxQq2yIkJkXXaFYdB",
+    "link": "https://open.spotify.com/track/5nKoSBxQq2yIkJkXXaFYdB",
     "artists": [
       {
-        "uri": "spotify:artist:3swqKb9ThB6V60oQEFyDu0",
         "name": "Facading",
+        "uri": "spotify:artist:3swqKb9ThB6V60oQEFyDu0",
         "id": "3swqKb9ThB6V60oQEFyDu0"
       }
     ],
     "id": "5nKoSBxQq2yIkJkXXaFYdB"
   },
   {
+    "name": "A Little More Like You",
     "uri": "spotify:track:5lsGkDRsE3gko5pt0xOnA1",
+    "link": "https://open.spotify.com/track/5lsGkDRsE3gko5pt0xOnA1",
     "artists": [
       {
-        "uri": "spotify:artist:3nAdmhth5AczU6YwCJOlYh",
         "name": "Dropgun",
+        "uri": "spotify:artist:3nAdmhth5AczU6YwCJOlYh",
         "id": "3nAdmhth5AczU6YwCJOlYh"
       }
     ],
     "id": "5lsGkDRsE3gko5pt0xOnA1"
   },
   {
+    "name": "Not Alone",
     "uri": "spotify:track:1akwEUtTqaHgv1fAc8lstd",
+    "link": "https://open.spotify.com/track/1akwEUtTqaHgv1fAc8lstd",
     "artists": [
       {
-        "uri": "spotify:artist:0XqFDQJjqW5PfhfBCb53LR",
         "name": "Sick Individuals",
+        "uri": "spotify:artist:0XqFDQJjqW5PfhfBCb53LR",
         "id": "0XqFDQJjqW5PfhfBCb53LR"
       },
       {
-        "uri": "spotify:artist:0TFdkHvlyUVl9zrb4seHxJ",
         "name": "Justin Prime",
+        "uri": "spotify:artist:0TFdkHvlyUVl9zrb4seHxJ",
         "id": "0TFdkHvlyUVl9zrb4seHxJ"
       }
     ],
     "id": "1akwEUtTqaHgv1fAc8lstd"
   },
   {
+    "name": "I Can't Get No",
     "uri": "spotify:track:6Awv1Nngm0jZbhklY07xSB",
+    "link": "https://open.spotify.com/track/6Awv1Nngm0jZbhklY07xSB",
     "artists": [
       {
-        "uri": "spotify:artist:1flYnVP7znbiEcL0ELwwTt",
         "name": "JETFIRE",
+        "uri": "spotify:artist:1flYnVP7znbiEcL0ELwwTt",
         "id": "1flYnVP7znbiEcL0ELwwTt"
       }
     ],
     "id": "6Awv1Nngm0jZbhklY07xSB"
   },
   {
+    "name": "Ride It - Dimitri Vegas & Like Mike vs Quintino Remix",
     "uri": "spotify:track:3MMKwhb20Rs3AnXIlz3fan",
+    "link": "https://open.spotify.com/track/3MMKwhb20Rs3AnXIlz3fan",
     "artists": [
       {
-        "uri": "spotify:artist:4ofCBoyEiGSePFAG500xev",
         "name": "Regard",
+        "uri": "spotify:artist:4ofCBoyEiGSePFAG500xev",
         "id": "4ofCBoyEiGSePFAG500xev"
       }
     ],
     "id": "3MMKwhb20Rs3AnXIlz3fan"
   },
   {
+    "name": "Loading",
     "uri": "spotify:track:5NSETjJKhsCttEPQ59RSqM",
+    "link": "https://open.spotify.com/track/5NSETjJKhsCttEPQ59RSqM",
     "artists": [
       {
-        "uri": "spotify:artist:3MIWT4SBVSpU1qxSZOcBL1",
         "name": "Duuy",
+        "uri": "spotify:artist:3MIWT4SBVSpU1qxSZOcBL1",
         "id": "3MIWT4SBVSpU1qxSZOcBL1"
       }
     ],
     "id": "5NSETjJKhsCttEPQ59RSqM"
   },
   {
+    "name": "When I'm with You",
     "uri": "spotify:track:44DcrMWkJImGcMoRdUErT0",
+    "link": "https://open.spotify.com/track/44DcrMWkJImGcMoRdUErT0",
     "artists": [
       {
-        "uri": "spotify:artist:6OqSgClwQLHCr09un2NQmR",
         "name": "Newclaess",
+        "uri": "spotify:artist:6OqSgClwQLHCr09un2NQmR",
         "id": "6OqSgClwQLHCr09un2NQmR"
       }
     ],
     "id": "44DcrMWkJImGcMoRdUErT0"
   },
   {
+    "name": "Feel Alive",
     "uri": "spotify:track:7F5fy8py8jbzCLxPfIt7dF",
+    "link": "https://open.spotify.com/track/7F5fy8py8jbzCLxPfIt7dF",
     "artists": [
       {
-        "uri": "spotify:artist:5wtxbzgYhdnCUNb3z4ulUA",
         "name": "Jack & James",
+        "uri": "spotify:artist:5wtxbzgYhdnCUNb3z4ulUA",
         "id": "5wtxbzgYhdnCUNb3z4ulUA"
       },
       {
-        "uri": "spotify:artist:01amjyTlohCQrBLbM1scoO",
         "name": "Distrion",
+        "uri": "spotify:artist:01amjyTlohCQrBLbM1scoO",
         "id": "01amjyTlohCQrBLbM1scoO"
       }
     ],
     "id": "7F5fy8py8jbzCLxPfIt7dF"
   },
   {
+    "name": "Forever (feat. NIKI)",
     "uri": "spotify:track:2WwcWXwkmXFK1yROIGak3I",
+    "link": "https://open.spotify.com/track/2WwcWXwkmXFK1yROIGak3I",
     "artists": [
       {
-        "uri": "spotify:artist:0b59cVa1STVENq3i7wkcHV",
         "name": "End of the World",
+        "uri": "spotify:artist:0b59cVa1STVENq3i7wkcHV",
         "id": "0b59cVa1STVENq3i7wkcHV"
       }
     ],
     "id": "2WwcWXwkmXFK1yROIGak3I"
   },
   {
+    "name": "Save My Life (feat. Lovespeake)",
     "uri": "spotify:track:1w8DxFHDDInmn5TovLKKrW",
+    "link": "https://open.spotify.com/track/1w8DxFHDDInmn5TovLKKrW",
     "artists": [
       {
-        "uri": "spotify:artist:1Cs0zKBU1kc0i8ypK3B9ai",
         "name": "David Guetta",
+        "uri": "spotify:artist:1Cs0zKBU1kc0i8ypK3B9ai",
         "id": "1Cs0zKBU1kc0i8ypK3B9ai"
       },
       {
-        "uri": "spotify:artist:19HFRWmRCl27kTk6LeqAO8",
         "name": "MORTEN",
+        "uri": "spotify:artist:19HFRWmRCl27kTk6LeqAO8",
         "id": "19HFRWmRCl27kTk6LeqAO8"
       },
       {
-        "uri": "spotify:artist:0svmVqwlzmbBfwofH6uGbk",
         "name": "Lovespeake",
+        "uri": "spotify:artist:0svmVqwlzmbBfwofH6uGbk",
         "id": "0svmVqwlzmbBfwofH6uGbk"
       }
     ],
     "id": "1w8DxFHDDInmn5TovLKKrW"
   },
   {
+    "name": "Falling",
     "uri": "spotify:track:6TupgXz0j7UdUZyZPySjD0",
+    "link": "https://open.spotify.com/track/6TupgXz0j7UdUZyZPySjD0",
     "artists": [
       {
-        "uri": "spotify:artist:3nAdmhth5AczU6YwCJOlYh",
         "name": "Dropgun",
+        "uri": "spotify:artist:3nAdmhth5AczU6YwCJOlYh",
         "id": "3nAdmhth5AczU6YwCJOlYh"
       },
       {
-        "uri": "spotify:artist:7HMpxXbzJOXYZyRiV0hvZn",
         "name": "Asketa & Natan Chaim",
+        "uri": "spotify:artist:7HMpxXbzJOXYZyRiV0hvZn",
         "id": "7HMpxXbzJOXYZyRiV0hvZn"
       }
     ],
     "id": "6TupgXz0j7UdUZyZPySjD0"
   },
   {
+    "name": "I Don't Care (feat. Robin Valo)",
     "uri": "spotify:track:5v1fID9mfbRvyYVM63rj3l",
+    "link": "https://open.spotify.com/track/5v1fID9mfbRvyYVM63rj3l",
     "artists": [
       {
-        "uri": "spotify:artist:7e1BNCygl2Gf7CX8LrByPv",
         "name": "Ummet Ozcan",
+        "uri": "spotify:artist:7e1BNCygl2Gf7CX8LrByPv",
         "id": "7e1BNCygl2Gf7CX8LrByPv"
       },
       {
-        "uri": "spotify:artist:4zIkVAEH6LnEXvRifwpvrI",
         "name": "Robin Valo",
+        "uri": "spotify:artist:4zIkVAEH6LnEXvRifwpvrI",
         "id": "4zIkVAEH6LnEXvRifwpvrI"
       }
     ],
     "id": "5v1fID9mfbRvyYVM63rj3l"
   },
   {
+    "name": "Cathedral",
     "uri": "spotify:track:2Nyg5XSFpb221DZzgNZrJP",
+    "link": "https://open.spotify.com/track/2Nyg5XSFpb221DZzgNZrJP",
     "artists": [
       {
-        "uri": "spotify:artist:1flYnVP7znbiEcL0ELwwTt",
         "name": "JETFIRE",
+        "uri": "spotify:artist:1flYnVP7znbiEcL0ELwwTt",
         "id": "1flYnVP7znbiEcL0ELwwTt"
       },
       {
-        "uri": "spotify:artist:1Q6CDBTFFKnanZ20DS2QnQ",
         "name": "Reggio",
+        "uri": "spotify:artist:1Q6CDBTFFKnanZ20DS2QnQ",
         "id": "1Q6CDBTFFKnanZ20DS2QnQ"
       },
       {
-        "uri": "spotify:artist:3rmYE7edorDWoKVPGk9iLZ",
         "name": "Wasback",
+        "uri": "spotify:artist:3rmYE7edorDWoKVPGk9iLZ",
         "id": "3rmYE7edorDWoKVPGk9iLZ"
       }
     ],
     "id": "2Nyg5XSFpb221DZzgNZrJP"
   },
   {
+    "name": "Carry Me Home (feat. Jake Reese)",
     "uri": "spotify:track:2M1mqcNUBIAfRoD2Puhejf",
+    "link": "https://open.spotify.com/track/2M1mqcNUBIAfRoD2Puhejf",
     "artists": [
       {
-        "uri": "spotify:artist:2wX6xSig4Rig5kZU6ePlWe",
         "name": "KSHMR",
+        "uri": "spotify:artist:2wX6xSig4Rig5kZU6ePlWe",
         "id": "2wX6xSig4Rig5kZU6ePlWe"
       }
     ],
     "id": "2M1mqcNUBIAfRoD2Puhejf"
   },
   {
+    "name": "Move Your Body - Alan Walker Remix",
     "uri": "spotify:track:6LUOMjoORvAkdhBYvESO46",
+    "link": "https://open.spotify.com/track/6LUOMjoORvAkdhBYvESO46",
     "artists": [
       {
-        "uri": "spotify:artist:5WUlDfRSoLAfcVSX1WnrxN",
         "name": "Sia",
+        "uri": "spotify:artist:5WUlDfRSoLAfcVSX1WnrxN",
         "id": "5WUlDfRSoLAfcVSX1WnrxN"
       }
     ],
     "id": "6LUOMjoORvAkdhBYvESO46"
   },
   {
+    "name": "Tough Love (feat. Agnes, Vargas & Lagola)",
     "uri": "spotify:track:1yfyIdEw5U2bD5I6gxQCxW",
+    "link": "https://open.spotify.com/track/1yfyIdEw5U2bD5I6gxQCxW",
     "artists": [
       {
-        "uri": "spotify:artist:1vCWHaC5f2uS3yhpwWbIA6",
         "name": "Avicii",
+        "uri": "spotify:artist:1vCWHaC5f2uS3yhpwWbIA6",
         "id": "1vCWHaC5f2uS3yhpwWbIA6"
       }
     ],
     "id": "1yfyIdEw5U2bD5I6gxQCxW"
   },
   {
+    "name": "Heaven",
     "uri": "spotify:track:0vrmHPfoBadXVr2n0m1aqZ",
+    "link": "https://open.spotify.com/track/0vrmHPfoBadXVr2n0m1aqZ",
     "artists": [
       {
-        "uri": "spotify:artist:1vCWHaC5f2uS3yhpwWbIA6",
         "name": "Avicii",
+        "uri": "spotify:artist:1vCWHaC5f2uS3yhpwWbIA6",
         "id": "1vCWHaC5f2uS3yhpwWbIA6"
       }
     ],
     "id": "0vrmHPfoBadXVr2n0m1aqZ"
   },
   {
+    "name": "BOOM",
     "uri": "spotify:track:6iC7vapdKp0XlKhxOkp8QJ",
+    "link": "https://open.spotify.com/track/6iC7vapdKp0XlKhxOkp8QJ",
     "artists": [
       {
-        "uri": "spotify:artist:2o5jDhtHVPhrJdv3cEQ99Z",
         "name": "Ti\u00ebsto",
+        "uri": "spotify:artist:2o5jDhtHVPhrJdv3cEQ99Z",
         "id": "2o5jDhtHVPhrJdv3cEQ99Z"
       },
       {
-        "uri": "spotify:artist:7bNqXqIrIfwJnipx7oGeU4",
         "name": "Sevenn",
+        "uri": "spotify:artist:7bNqXqIrIfwJnipx7oGeU4",
         "id": "7bNqXqIrIfwJnipx7oGeU4"
       }
     ],
     "id": "6iC7vapdKp0XlKhxOkp8QJ"
   },
   {
+    "name": "Khaleesi",
     "uri": "spotify:track:0uvUzG3kHn48Jqx6o0eUdb",
+    "link": "https://open.spotify.com/track/0uvUzG3kHn48Jqx6o0eUdb",
     "artists": [
       {
-        "uri": "spotify:artist:6w0JXd2nT27GXVTbsuQ2II",
         "name": "3 Are Legend",
+        "uri": "spotify:artist:6w0JXd2nT27GXVTbsuQ2II",
         "id": "6w0JXd2nT27GXVTbsuQ2II"
       },
       {
-        "uri": "spotify:artist:2rTo8KIkBTFjQS7VvaKYQ4",
         "name": "W&W",
+        "uri": "spotify:artist:2rTo8KIkBTFjQS7VvaKYQ4",
         "id": "2rTo8KIkBTFjQS7VvaKYQ4"
       }
     ],
     "id": "0uvUzG3kHn48Jqx6o0eUdb"
   },
   {
+    "name": "Firestone",
     "uri": "spotify:track:3Hmo4GdZjoPsOPZzxsJF92",
+    "link": "https://open.spotify.com/track/3Hmo4GdZjoPsOPZzxsJF92",
     "artists": [
       {
-        "uri": "spotify:artist:23fqKkggKUBHNkbKtXEls4",
         "name": "Kygo",
+        "uri": "spotify:artist:23fqKkggKUBHNkbKtXEls4",
         "id": "23fqKkggKUBHNkbKtXEls4"
       }
     ],
     "id": "3Hmo4GdZjoPsOPZzxsJF92"
   },
   {
+    "name": "Moonlight (feat. Danyka Nadeau & Badjack)",
     "uri": "spotify:track:4dgkustBLuGq8tjsWtzRoO",
+    "link": "https://open.spotify.com/track/4dgkustBLuGq8tjsWtzRoO",
     "artists": [
       {
-        "uri": "spotify:artist:7G7KvDCLdVG0Ok511Iqc9U",
         "name": "Disco Fries",
+        "uri": "spotify:artist:7G7KvDCLdVG0Ok511Iqc9U",
         "id": "7G7KvDCLdVG0Ok511Iqc9U"
       },
       {
-        "uri": "spotify:artist:40oI86vaTUHgkSGlYkEiLM",
         "name": "Badjack",
+        "uri": "spotify:artist:40oI86vaTUHgkSGlYkEiLM",
         "id": "40oI86vaTUHgkSGlYkEiLM"
       }
     ],
     "id": "4dgkustBLuGq8tjsWtzRoO"
   },
   {
+    "name": "The Mind",
     "uri": "spotify:track:53G8abQvp48LtIzFL5u9Ah",
+    "link": "https://open.spotify.com/track/53G8abQvp48LtIzFL5u9Ah",
     "artists": [
       {
-        "uri": "spotify:artist:5QWt56OIzFSPRpD7VeRkbc",
         "name": "AXMO",
+        "uri": "spotify:artist:5QWt56OIzFSPRpD7VeRkbc",
         "id": "5QWt56OIzFSPRpD7VeRkbc"
       }
     ],
     "id": "53G8abQvp48LtIzFL5u9Ah"
   },
   {
+    "name": "Give It Up",
     "uri": "spotify:track:3MqV9Ss6QyZ79lJ6cdMiiE",
+    "link": "https://open.spotify.com/track/3MqV9Ss6QyZ79lJ6cdMiiE",
     "artists": [
       {
-        "uri": "spotify:artist:3IpvVrP3VLhruTmnququq7",
         "name": "Mike Williams",
+        "uri": "spotify:artist:3IpvVrP3VLhruTmnququq7",
         "id": "3IpvVrP3VLhruTmnququq7"
       }
     ],
     "id": "3MqV9Ss6QyZ79lJ6cdMiiE"
   },
   {
+    "name": "One Step Forward",
     "uri": "spotify:track:00I0yz7vrRJwcZFEmpTUyT",
+    "link": "https://open.spotify.com/track/00I0yz7vrRJwcZFEmpTUyT",
     "artists": [
       {
-        "uri": "spotify:artist:2sTG6aaa8grSDW0AHXZ4xb",
         "name": "Nhato",
+        "uri": "spotify:artist:2sTG6aaa8grSDW0AHXZ4xb",
         "id": "2sTG6aaa8grSDW0AHXZ4xb"
       }
     ],
     "id": "00I0yz7vrRJwcZFEmpTUyT"
   },
   {
+    "name": "Interstellar",
     "uri": "spotify:track:6oH1u7QXEady31BKhjzOVh",
+    "link": "https://open.spotify.com/track/6oH1u7QXEady31BKhjzOVh",
     "artists": [
       {
-        "uri": "spotify:artist:11d0Ru1rFEenTY97PfN3VK",
         "name": "PAX JAPONICA GROOVE",
+        "uri": "spotify:artist:11d0Ru1rFEenTY97PfN3VK",
         "id": "11d0Ru1rFEenTY97PfN3VK"
       }
     ],
     "id": "6oH1u7QXEady31BKhjzOVh"
   },
   {
+    "name": "Dino",
     "uri": "spotify:track:3NsprPaOXYhJE1JFMdPnjJ",
+    "link": "https://open.spotify.com/track/3NsprPaOXYhJE1JFMdPnjJ",
     "artists": [
       {
-        "uri": "spotify:artist:5HIaWUt7K7zHFsUZDy5fvX",
         "name": "Mountkid",
+        "uri": "spotify:artist:5HIaWUt7K7zHFsUZDy5fvX",
         "id": "5HIaWUt7K7zHFsUZDy5fvX"
       }
     ],
     "id": "3NsprPaOXYhJE1JFMdPnjJ"
   },
   {
+    "name": "Hurts So Good (feat. ROE)",
     "uri": "spotify:track:1lsCPv70shPzEdoIYmikCd",
+    "link": "https://open.spotify.com/track/1lsCPv70shPzEdoIYmikCd",
     "artists": [
       {
-        "uri": "spotify:artist:5WdqBAQhGFCrZvBKXiPIu7",
         "name": "The Him",
+        "uri": "spotify:artist:5WdqBAQhGFCrZvBKXiPIu7",
         "id": "5WdqBAQhGFCrZvBKXiPIu7"
       }
     ],
     "id": "1lsCPv70shPzEdoIYmikCd"
   },
   {
+    "name": "Better When You're Gone - Extended Mix",
     "uri": "spotify:track:7d3efJH6BOKUKUt7fVovn9",
+    "link": "https://open.spotify.com/track/7d3efJH6BOKUKUt7fVovn9",
     "artists": [
       {
-        "uri": "spotify:artist:1Cs0zKBU1kc0i8ypK3B9ai",
         "name": "David Guetta",
+        "uri": "spotify:artist:1Cs0zKBU1kc0i8ypK3B9ai",
         "id": "1Cs0zKBU1kc0i8ypK3B9ai"
       },
       {
-        "uri": "spotify:artist:4mHAu7NX2UNsnGXjviBD9e",
         "name": "Brooks",
+        "uri": "spotify:artist:4mHAu7NX2UNsnGXjviBD9e",
         "id": "4mHAu7NX2UNsnGXjviBD9e"
       },
       {
-        "uri": "spotify:artist:00TKPo9MxwZ0j4ooveIxWZ",
         "name": "Loote",
+        "uri": "spotify:artist:00TKPo9MxwZ0j4ooveIxWZ",
         "id": "00TKPo9MxwZ0j4ooveIxWZ"
       }
     ],
     "id": "7d3efJH6BOKUKUt7fVovn9"
   },
   {
+    "name": "The Bass",
     "uri": "spotify:track:6ISPuVhh1XukDCVGcqutqX",
+    "link": "https://open.spotify.com/track/6ISPuVhh1XukDCVGcqutqX",
     "artists": [
       {
-        "uri": "spotify:artist:5OdVywqKqyCWwfE2fZb7IX",
         "name": "Chico Rose",
+        "uri": "spotify:artist:5OdVywqKqyCWwfE2fZb7IX",
         "id": "5OdVywqKqyCWwfE2fZb7IX"
       },
       {
-        "uri": "spotify:artist:4D75GcNG95ebPtNvoNVXhz",
         "name": "Afrojack",
+        "uri": "spotify:artist:4D75GcNG95ebPtNvoNVXhz",
         "id": "4D75GcNG95ebPtNvoNVXhz"
       }
     ],
     "id": "6ISPuVhh1XukDCVGcqutqX"
   },
   {
+    "name": "Wait For You (feat. Maia Wright) - VIP Mix",
     "uri": "spotify:track:74BnmN5yGTHGy3pHqyeBvO",
+    "link": "https://open.spotify.com/track/74BnmN5yGTHGy3pHqyeBvO",
     "artists": [
       {
-        "uri": "spotify:artist:3IpvVrP3VLhruTmnququq7",
         "name": "Mike Williams",
+        "uri": "spotify:artist:3IpvVrP3VLhruTmnququq7",
         "id": "3IpvVrP3VLhruTmnququq7"
       }
     ],
     "id": "74BnmN5yGTHGy3pHqyeBvO"
   },
   {
+    "name": "LUNA",
     "uri": "spotify:track:0Bk4P8WODpjxTzu4ry5PGQ",
+    "link": "https://open.spotify.com/track/0Bk4P8WODpjxTzu4ry5PGQ",
     "artists": [
       {
-        "uri": "spotify:artist:0XqFDQJjqW5PfhfBCb53LR",
         "name": "Sick Individuals",
+        "uri": "spotify:artist:0XqFDQJjqW5PfhfBCb53LR",
         "id": "0XqFDQJjqW5PfhfBCb53LR"
       }
     ],
     "id": "0Bk4P8WODpjxTzu4ry5PGQ"
   },
   {
+    "name": "When We Were Young",
     "uri": "spotify:track:652VawSUmIa5WPubdQI3cd",
+    "link": "https://open.spotify.com/track/652VawSUmIa5WPubdQI3cd",
     "artists": [
       {
-        "uri": "spotify:artist:36OHRfWvgcTohhk0st9VC4",
         "name": "Still Young",
+        "uri": "spotify:artist:36OHRfWvgcTohhk0st9VC4",
         "id": "36OHRfWvgcTohhk0st9VC4"
       },
       {
-        "uri": "spotify:artist:1dsilrkrvxXE6I02SWfDYD",
         "name": "Kosling",
+        "uri": "spotify:artist:1dsilrkrvxXE6I02SWfDYD",
         "id": "1dsilrkrvxXE6I02SWfDYD"
       }
     ],
     "id": "652VawSUmIa5WPubdQI3cd"
   },
   {
+    "name": "All The Time",
     "uri": "spotify:track:5UA6rAsMTn0okgp95isGrl",
+    "link": "https://open.spotify.com/track/5UA6rAsMTn0okgp95isGrl",
     "artists": [
       {
-        "uri": "spotify:artist:05KjvP5zdwtEIgEazqblZw",
         "name": "Marc Benjamin",
+        "uri": "spotify:artist:05KjvP5zdwtEIgEazqblZw",
         "id": "05KjvP5zdwtEIgEazqblZw"
       }
     ],
     "id": "5UA6rAsMTn0okgp95isGrl"
   },
   {
+    "name": "Never",
     "uri": "spotify:track:0OuGYhQcaASbBYJzzXq1qb",
+    "link": "https://open.spotify.com/track/0OuGYhQcaASbBYJzzXq1qb",
     "artists": [
       {
-        "uri": "spotify:artist:1oB55C2OgosjV7fLfhNoMS",
         "name": "Widemode",
+        "uri": "spotify:artist:1oB55C2OgosjV7fLfhNoMS",
         "id": "1oB55C2OgosjV7fLfhNoMS"
       },
       {
-        "uri": "spotify:artist:6aaMlV5Qz8DK66IWgwoUH8",
         "name": "Revealed Recordings",
+        "uri": "spotify:artist:6aaMlV5Qz8DK66IWgwoUH8",
         "id": "6aaMlV5Qz8DK66IWgwoUH8"
       }
     ],
     "id": "0OuGYhQcaASbBYJzzXq1qb"
   },
   {
+    "name": "All My Love (feat. Conor Maynard) - Sagan Remix",
     "uri": "spotify:track:2ahVZ2x6SR3v79yxeh9q17",
+    "link": "https://open.spotify.com/track/2ahVZ2x6SR3v79yxeh9q17",
     "artists": [
       {
-        "uri": "spotify:artist:1LOB7jTeEV14pHai6EXSzF",
         "name": "Cash Cash",
+        "uri": "spotify:artist:1LOB7jTeEV14pHai6EXSzF",
         "id": "1LOB7jTeEV14pHai6EXSzF"
       }
     ],
     "id": "2ahVZ2x6SR3v79yxeh9q17"
   },
   {
+    "name": "I Found You",
     "uri": "spotify:track:3wYOGJYD31sLRmBgCvWxa4",
+    "link": "https://open.spotify.com/track/3wYOGJYD31sLRmBgCvWxa4",
     "artists": [
       {
-        "uri": "spotify:artist:1LOB7jTeEV14pHai6EXSzF",
         "name": "Cash Cash",
+        "uri": "spotify:artist:1LOB7jTeEV14pHai6EXSzF",
         "id": "1LOB7jTeEV14pHai6EXSzF"
       },
       {
-        "uri": "spotify:artist:2oX42qP5ineK3hrhBECLmj",
         "name": "Andy Grammer",
+        "uri": "spotify:artist:2oX42qP5ineK3hrhBECLmj",
         "id": "2oX42qP5ineK3hrhBECLmj"
       }
     ],
     "id": "3wYOGJYD31sLRmBgCvWxa4"
   },
   {
+    "name": "Gekka",
     "uri": "spotify:track:6BDUdwOnjVTGWJbsbOcm9V",
+    "link": "https://open.spotify.com/track/6BDUdwOnjVTGWJbsbOcm9V",
     "artists": [
       {
-        "uri": "spotify:artist:2sTG6aaa8grSDW0AHXZ4xb",
         "name": "Nhato",
+        "uri": "spotify:artist:2sTG6aaa8grSDW0AHXZ4xb",
         "id": "2sTG6aaa8grSDW0AHXZ4xb"
       }
     ],
     "id": "6BDUdwOnjVTGWJbsbOcm9V"
   },
   {
+    "name": "Good Life (with G-Eazy & Kehlani)",
     "uri": "spotify:track:2ILu9Dyb8D2x5N3ym3cNHZ",
+    "link": "https://open.spotify.com/track/2ILu9Dyb8D2x5N3ym3cNHZ",
     "artists": [
       {
-        "uri": "spotify:artist:02kJSzxNuaWGqwubyUba0Z",
         "name": "G-Eazy",
+        "uri": "spotify:artist:02kJSzxNuaWGqwubyUba0Z",
         "id": "02kJSzxNuaWGqwubyUba0Z"
       },
       {
-        "uri": "spotify:artist:0cGUm45nv7Z6M6qdXYQGTX",
         "name": "Kehlani",
+        "uri": "spotify:artist:0cGUm45nv7Z6M6qdXYQGTX",
         "id": "0cGUm45nv7Z6M6qdXYQGTX"
       }
     ],
     "id": "2ILu9Dyb8D2x5N3ym3cNHZ"
   },
   {
+    "name": "The Fever",
     "uri": "spotify:track:1AS2ADK5pf7vHRCH0b1LXT",
+    "link": "https://open.spotify.com/track/1AS2ADK5pf7vHRCH0b1LXT",
     "artists": [
       {
-        "uri": "spotify:artist:6xQvQwZQQuq9R3TdPNbcR8",
         "name": "Bassjackers",
+        "uri": "spotify:artist:6xQvQwZQQuq9R3TdPNbcR8",
         "id": "6xQvQwZQQuq9R3TdPNbcR8"
       },
       {
-        "uri": "spotify:artist:53M4Iv2RkzzxFFvW2B1jhC",
         "name": "Breathe Carolina",
+        "uri": "spotify:artist:53M4Iv2RkzzxFFvW2B1jhC",
         "id": "53M4Iv2RkzzxFFvW2B1jhC"
       },
       {
-        "uri": "spotify:artist:6jNwV0P142cXxXanOl9Ylo",
         "name": "APEK",
+        "uri": "spotify:artist:6jNwV0P142cXxXanOl9Ylo",
         "id": "6jNwV0P142cXxXanOl9Ylo"
       }
     ],
     "id": "1AS2ADK5pf7vHRCH0b1LXT"
   },
   {
+    "name": "Light it up",
     "uri": "spotify:track:3RjzGgKJCGRY6LRbTrww64",
+    "link": "https://open.spotify.com/track/3RjzGgKJCGRY6LRbTrww64",
     "artists": [
       {
-        "uri": "spotify:artist:4bwIf0yXJf0F9AmOl2J78M",
         "name": "Camellia",
+        "uri": "spotify:artist:4bwIf0yXJf0F9AmOl2J78M",
         "id": "4bwIf0yXJf0F9AmOl2J78M"
       }
     ],
     "id": "3RjzGgKJCGRY6LRbTrww64"
   },
   {
+    "name": "crystallized",
     "uri": "spotify:track:4n4f1prm4jThMwtIXiF9eh",
+    "link": "https://open.spotify.com/track/4n4f1prm4jThMwtIXiF9eh",
     "artists": [
       {
-        "uri": "spotify:artist:4bwIf0yXJf0F9AmOl2J78M",
         "name": "Camellia",
+        "uri": "spotify:artist:4bwIf0yXJf0F9AmOl2J78M",
         "id": "4bwIf0yXJf0F9AmOl2J78M"
       }
     ],
     "id": "4n4f1prm4jThMwtIXiF9eh"
   },
   {
+    "name": "Game Over",
     "uri": "spotify:track:5Zpe48RJ5Vs1YuFRodYdeS",
+    "link": "https://open.spotify.com/track/5Zpe48RJ5Vs1YuFRodYdeS",
     "artists": [
       {
-        "uri": "spotify:artist:60d24wfXkVzDSfLS6hyCjZ",
         "name": "Martin Garrix",
+        "uri": "spotify:artist:60d24wfXkVzDSfLS6hyCjZ",
         "id": "60d24wfXkVzDSfLS6hyCjZ"
       },
       {
-        "uri": "spotify:artist:0Aemly9h57T2sLKpkNq409",
         "name": "LOOPERS",
+        "uri": "spotify:artist:0Aemly9h57T2sLKpkNq409",
         "id": "0Aemly9h57T2sLKpkNq409"
       }
     ],
     "id": "5Zpe48RJ5Vs1YuFRodYdeS"
   },
   {
+    "name": "Breach (Walk Alone)",
     "uri": "spotify:track:5UHrKSQhNs96msAx8LPVwS",
+    "link": "https://open.spotify.com/track/5UHrKSQhNs96msAx8LPVwS",
     "artists": [
       {
-        "uri": "spotify:artist:60d24wfXkVzDSfLS6hyCjZ",
         "name": "Martin Garrix",
+        "uri": "spotify:artist:60d24wfXkVzDSfLS6hyCjZ",
         "id": "60d24wfXkVzDSfLS6hyCjZ"
       }
     ],
     "id": "5UHrKSQhNs96msAx8LPVwS"
   },
   {
+    "name": "Back 2 U (feat. WALK THE MOON)",
     "uri": "spotify:track:5deDWZeDHWfYk9xaq9ynh4",
+    "link": "https://open.spotify.com/track/5deDWZeDHWfYk9xaq9ynh4",
     "artists": [
       {
-        "uri": "spotify:artist:77AiFEVeAVj2ORpC85QVJs",
         "name": "Steve Aoki",
+        "uri": "spotify:artist:77AiFEVeAVj2ORpC85QVJs",
         "id": "77AiFEVeAVj2ORpC85QVJs"
       },
       {
-        "uri": "spotify:artist:08p782h5VznNEQMM4wAEp9",
         "name": "Boehm",
+        "uri": "spotify:artist:08p782h5VznNEQMM4wAEp9",
         "id": "08p782h5VznNEQMM4wAEp9"
       }
     ],
     "id": "5deDWZeDHWfYk9xaq9ynh4"
   },
   {
+    "name": "Turn Me On (feat. Nicki Minaj)",
     "uri": "spotify:track:147cPSrfbVwgqnByGQTv4N",
+    "link": "https://open.spotify.com/track/147cPSrfbVwgqnByGQTv4N",
     "artists": [
       {
-        "uri": "spotify:artist:1Cs0zKBU1kc0i8ypK3B9ai",
         "name": "David Guetta",
+        "uri": "spotify:artist:1Cs0zKBU1kc0i8ypK3B9ai",
         "id": "1Cs0zKBU1kc0i8ypK3B9ai"
       }
     ],
     "id": "147cPSrfbVwgqnByGQTv4N"
   },
   {
+    "name": "FOREVER YOUNG - KR Ver.",
     "uri": "spotify:track:57Enap29zKl7NGRdDJjkjA",
+    "link": "https://open.spotify.com/track/57Enap29zKl7NGRdDJjkjA",
     "artists": [
       {
-        "uri": "spotify:artist:41MozSoPIsD1dJM0CLPjZF",
         "name": "BLACKPINK",
+        "uri": "spotify:artist:41MozSoPIsD1dJM0CLPjZF",
         "id": "41MozSoPIsD1dJM0CLPjZF"
       }
     ],
     "id": "57Enap29zKl7NGRdDJjkjA"
   },
   {
+    "name": "What About Us - Cash Cash Remix",
     "uri": "spotify:track:5Xt5iEbljmwJW51LMTQ6Nx",
+    "link": "https://open.spotify.com/track/5Xt5iEbljmwJW51LMTQ6Nx",
     "artists": [
       {
-        "uri": "spotify:artist:1KCSPY1glIKqW2TotWuXOR",
         "name": "P!nk",
+        "uri": "spotify:artist:1KCSPY1glIKqW2TotWuXOR",
         "id": "1KCSPY1glIKqW2TotWuXOR"
       }
     ],
     "id": "5Xt5iEbljmwJW51LMTQ6Nx"
   },
   {
+    "name": "Leaving",
     "uri": "spotify:track:29Ddz0FZ4c3ICEs1CNQ9nX",
+    "link": "https://open.spotify.com/track/29Ddz0FZ4c3ICEs1CNQ9nX",
     "artists": [
       {
-        "uri": "spotify:artist:26JVnujQQ3lEML8t9p3X1J",
         "name": "Blinders",
+        "uri": "spotify:artist:26JVnujQQ3lEML8t9p3X1J",
         "id": "26JVnujQQ3lEML8t9p3X1J"
       }
     ],
     "id": "29Ddz0FZ4c3ICEs1CNQ9nX"
   },
   {
+    "name": "Thirty - Original Mix",
     "uri": "spotify:track:7B8gxE3FibLo9fEN4FrpFc",
+    "link": "https://open.spotify.com/track/7B8gxE3FibLo9fEN4FrpFc",
     "artists": [
       {
-        "uri": "spotify:artist:1JsfCClBdvqqeP7OXNKiKc",
         "name": "Hiroyuki Oda",
+        "uri": "spotify:artist:1JsfCClBdvqqeP7OXNKiKc",
         "id": "1JsfCClBdvqqeP7OXNKiKc"
       }
     ],
     "id": "7B8gxE3FibLo9fEN4FrpFc"
   },
   {
+    "name": "Put Your F*cking Phone Down",
     "uri": "spotify:track:1rGkQ90acvJJd4gW8wOaGQ",
+    "link": "https://open.spotify.com/track/1rGkQ90acvJJd4gW8wOaGQ",
     "artists": [
       {
-        "uri": "spotify:artist:0LyfQWJT6nXafLPZqxe9Of",
         "name": "Various Artists",
+        "uri": "spotify:artist:0LyfQWJT6nXafLPZqxe9Of",
         "id": "0LyfQWJT6nXafLPZqxe9Of"
       }
     ],
     "id": "1rGkQ90acvJJd4gW8wOaGQ"
   },
   {
+    "name": "Luvotomy - TeddyLoid Remix",
     "uri": "spotify:track:40uczKRtoMc8IBWX8Q9xJc",
+    "link": "https://open.spotify.com/track/40uczKRtoMc8IBWX8Q9xJc",
     "artists": [
       {
-        "uri": "spotify:artist:4UhiMIdxKqQxmzdE9nYe6O",
         "name": "m-flo",
+        "uri": "spotify:artist:4UhiMIdxKqQxmzdE9nYe6O",
         "id": "4UhiMIdxKqQxmzdE9nYe6O"
       }
     ],
     "id": "40uczKRtoMc8IBWX8Q9xJc"
   },
   {
+    "name": "Do It For You",
     "uri": "spotify:track:0MzGlglhtPUWykfrJhfe4y",
+    "link": "https://open.spotify.com/track/0MzGlglhtPUWykfrJhfe4y",
     "artists": [
       {
-        "uri": "spotify:artist:2rTo8KIkBTFjQS7VvaKYQ4",
         "name": "W&W",
+        "uri": "spotify:artist:2rTo8KIkBTFjQS7VvaKYQ4",
         "id": "2rTo8KIkBTFjQS7VvaKYQ4"
       },
       {
-        "uri": "spotify:artist:5wwneIFdawNgQ7GvKK29Z3",
         "name": "Lucas & Steve",
+        "uri": "spotify:artist:5wwneIFdawNgQ7GvKK29Z3",
         "id": "5wwneIFdawNgQ7GvKK29Z3"
       }
     ],
     "id": "0MzGlglhtPUWykfrJhfe4y"
   },
   {
+    "name": "Giratina",
     "uri": "spotify:track:6QH8FVbFkefVgfD3QwC82H",
+    "link": "https://open.spotify.com/track/6QH8FVbFkefVgfD3QwC82H",
     "artists": [
       {
-        "uri": "spotify:artist:2Zvo5BEkHyaHD1zk180kMz",
         "name": "Dimatik",
+        "uri": "spotify:artist:2Zvo5BEkHyaHD1zk180kMz",
         "id": "2Zvo5BEkHyaHD1zk180kMz"
       },
       {
-        "uri": "spotify:artist:1uL5R0NdFIaacJE1W8p7Bi",
         "name": "Monik",
+        "uri": "spotify:artist:1uL5R0NdFIaacJE1W8p7Bi",
         "id": "1uL5R0NdFIaacJE1W8p7Bi"
       },
       {
-        "uri": "spotify:artist:3TOcsmPjuFCARycuQEGepB",
         "name": "Carroch",
+        "uri": "spotify:artist:3TOcsmPjuFCARycuQEGepB",
         "id": "3TOcsmPjuFCARycuQEGepB"
       }
     ],
     "id": "6QH8FVbFkefVgfD3QwC82H"
   },
   {
+    "name": "Mtc",
     "uri": "spotify:track:56nLHj9HJr3xpbLarnr0l4",
+    "link": "https://open.spotify.com/track/56nLHj9HJr3xpbLarnr0l4",
     "artists": [
       {
-        "uri": "spotify:artist:11aa081aKYUzmeFm0yHdT2",
         "name": "S3RL",
+        "uri": "spotify:artist:11aa081aKYUzmeFm0yHdT2",
         "id": "11aa081aKYUzmeFm0yHdT2"
       }
     ],
     "id": "56nLHj9HJr3xpbLarnr0l4"
   },
   {
+    "name": "Super Nova",
     "uri": "spotify:track:4PT67n8vCPl4qLKpCsXEKP",
+    "link": "https://open.spotify.com/track/4PT67n8vCPl4qLKpCsXEKP",
     "artists": [
       {
-        "uri": "spotify:artist:0LyfQWJT6nXafLPZqxe9Of",
         "name": "Various Artists",
+        "uri": "spotify:artist:0LyfQWJT6nXafLPZqxe9Of",
         "id": "0LyfQWJT6nXafLPZqxe9Of"
       }
     ],
     "id": "4PT67n8vCPl4qLKpCsXEKP"
   },
   {
+    "name": "Gimme\u00d7Gimme feat. \u521d\u97f3\u30df\u30af\u30fb\u93e1\u97f3\u30ea\u30f3",
     "uri": "spotify:track:5XJh3VbvvnGYrkubcQwzys",
+    "link": "https://open.spotify.com/track/5XJh3VbvvnGYrkubcQwzys",
     "artists": [
       {
-        "uri": "spotify:artist:4TtpMS8RsX8vW64WOivJrb",
         "name": "Hachioji P",
+        "uri": "spotify:artist:4TtpMS8RsX8vW64WOivJrb",
         "id": "4TtpMS8RsX8vW64WOivJrb"
       }
     ],
     "id": "5XJh3VbvvnGYrkubcQwzys"
   },
   {
+    "name": "Flash Back - ver.D/D",
     "uri": "spotify:track:4aVqex1f5W9xkubt6SxGsV",
+    "link": "https://open.spotify.com/track/4aVqex1f5W9xkubt6SxGsV",
     "artists": [
       {
-        "uri": "spotify:artist:5ZjOsH8VbUcUs5LoDjeYOE",
         "name": "UMETORA",
+        "uri": "spotify:artist:5ZjOsH8VbUcUs5LoDjeYOE",
         "id": "5ZjOsH8VbUcUs5LoDjeYOE"
       }
     ],
     "id": "4aVqex1f5W9xkubt6SxGsV"
   },
   {
+    "name": "Automatic",
     "uri": "spotify:track:4Z3yoGb2IE2EDeW0lyRCWW",
+    "link": "https://open.spotify.com/track/4Z3yoGb2IE2EDeW0lyRCWW",
     "artists": [
       {
-        "uri": "spotify:artist:0hCNtLu0JehylgoiP8L4Gh",
         "name": "Nicki Minaj",
+        "uri": "spotify:artist:0hCNtLu0JehylgoiP8L4Gh",
         "id": "0hCNtLu0JehylgoiP8L4Gh"
       }
     ],
     "id": "4Z3yoGb2IE2EDeW0lyRCWW"
   },
   {
+    "name": "ECHO (Stormzex Remix) (feat. Vocaloid Gumi)",
     "uri": "spotify:track:7fqZNBdQcHqqhQkPYjbKBt",
+    "link": "https://open.spotify.com/track/7fqZNBdQcHqqhQkPYjbKBt",
     "artists": [
       {
-        "uri": "spotify:artist:0gnBpQrAfWy73XpB4ZZZYX",
         "name": "Crusher-P",
+        "uri": "spotify:artist:0gnBpQrAfWy73XpB4ZZZYX",
         "id": "0gnBpQrAfWy73XpB4ZZZYX"
       },
       {
-        "uri": "spotify:artist:2H2OMOMrbH9tLe9CBjVegM",
         "name": "stormzex",
+        "uri": "spotify:artist:2H2OMOMrbH9tLe9CBjVegM",
         "id": "2H2OMOMrbH9tLe9CBjVegM"
       }
     ],
     "id": "7fqZNBdQcHqqhQkPYjbKBt"
   },
   {
+    "name": "fake doll",
     "uri": "spotify:track:4teaaMITc9yQZEQL67Font",
+    "link": "https://open.spotify.com/track/4teaaMITc9yQZEQL67Font",
     "artists": [
       {
-        "uri": "spotify:artist:4TtpMS8RsX8vW64WOivJrb",
         "name": "Hachioji P",
+        "uri": "spotify:artist:4TtpMS8RsX8vW64WOivJrb",
         "id": "4TtpMS8RsX8vW64WOivJrb"
       }
     ],
     "id": "4teaaMITc9yQZEQL67Font"
   },
   {
+    "name": "Game Changers",
     "uri": "spotify:track:7vmNFsJ8FF0JeViv8b9GBB",
+    "link": "https://open.spotify.com/track/7vmNFsJ8FF0JeViv8b9GBB",
     "artists": [
       {
-        "uri": "spotify:artist:3GfNJrDTZY7voXPDx8gH9I",
         "name": "TeddyLoid",
+        "uri": "spotify:artist:3GfNJrDTZY7voXPDx8gH9I",
         "id": "3GfNJrDTZY7voXPDx8gH9I"
       }
     ],
     "id": "7vmNFsJ8FF0JeViv8b9GBB"
   },
   {
+    "name": "This Is A Test",
     "uri": "spotify:track:60H6i1D6iReQ3VYiE52OwI",
+    "link": "https://open.spotify.com/track/60H6i1D6iReQ3VYiE52OwI",
     "artists": [
       {
-        "uri": "spotify:artist:0SfsnGyD8FpIN4U4WCkBZ5",
         "name": "Armin van Buuren",
+        "uri": "spotify:artist:0SfsnGyD8FpIN4U4WCkBZ5",
         "id": "0SfsnGyD8FpIN4U4WCkBZ5"
       }
     ],
     "id": "60H6i1D6iReQ3VYiE52OwI"
   },
   {
+    "name": "Entropy",
     "uri": "spotify:track:3hR2IpnyrI6NvUvLB0RVni",
+    "link": "https://open.spotify.com/track/3hR2IpnyrI6NvUvLB0RVni",
     "artists": [
       {
-        "uri": "spotify:artist:0LyfQWJT6nXafLPZqxe9Of",
         "name": "Various Artists",
+        "uri": "spotify:artist:0LyfQWJT6nXafLPZqxe9Of",
         "id": "0LyfQWJT6nXafLPZqxe9Of"
       }
     ],
     "id": "3hR2IpnyrI6NvUvLB0RVni"
   },
   {
+    "name": "Bounce",
     "uri": "spotify:track:6fGZkqYqA07nGG6x38jhNW",
+    "link": "https://open.spotify.com/track/6fGZkqYqA07nGG6x38jhNW",
     "artists": [
       {
-        "uri": "spotify:artist:3NwcP2GO2sZZS2BVvWcc9T",
         "name": "Kura",
+        "uri": "spotify:artist:3NwcP2GO2sZZS2BVvWcc9T",
         "id": "3NwcP2GO2sZZS2BVvWcc9T"
       }
     ],
     "id": "6fGZkqYqA07nGG6x38jhNW"
   },
   {
+    "name": "Thinking About You - CARSTN Remix",
     "uri": "spotify:track:128gUtnjsATiKzKsTN890O",
+    "link": "https://open.spotify.com/track/128gUtnjsATiKzKsTN890O",
     "artists": [
       {
-        "uri": "spotify:artist:2nxTGa5aXErL9eUJPQiaZP",
         "name": "Alltag",
+        "uri": "spotify:artist:2nxTGa5aXErL9eUJPQiaZP",
         "id": "2nxTGa5aXErL9eUJPQiaZP"
       },
       {
-        "uri": "spotify:artist:5N8lMhIyJ5Qtasb02tmK47",
         "name": "liquidfive",
+        "uri": "spotify:artist:5N8lMhIyJ5Qtasb02tmK47",
         "id": "5N8lMhIyJ5Qtasb02tmK47"
       },
       {
-        "uri": "spotify:artist:3Wb1mXnd1hXkGwys5m54YC",
         "name": "CARSTN",
+        "uri": "spotify:artist:3Wb1mXnd1hXkGwys5m54YC",
         "id": "3Wb1mXnd1hXkGwys5m54YC"
       }
     ],
     "id": "128gUtnjsATiKzKsTN890O"
   },
   {
+    "name": "Vishnu",
     "uri": "spotify:track:2s4de0PxAlWw9bLY8xaari",
+    "link": "https://open.spotify.com/track/2s4de0PxAlWw9bLY8xaari",
     "artists": [
       {
-        "uri": "spotify:artist:0EHmjLGfcWNSg3GLGDO8KK",
         "name": "WICKD",
+        "uri": "spotify:artist:0EHmjLGfcWNSg3GLGDO8KK",
         "id": "0EHmjLGfcWNSg3GLGDO8KK"
       }
     ],
     "id": "2s4de0PxAlWw9bLY8xaari"
   },
   {
+    "name": "Bad Bitches - Original Mix",
     "uri": "spotify:track:6vZRwnf0PXFNDRtbSRllHK",
+    "link": "https://open.spotify.com/track/6vZRwnf0PXFNDRtbSRllHK",
     "artists": [
       {
-        "uri": "spotify:artist:3nALc9PyUfe6CO3EY9bNhH",
         "name": "Henry Fong",
+        "uri": "spotify:artist:3nALc9PyUfe6CO3EY9bNhH",
         "id": "3nALc9PyUfe6CO3EY9bNhH"
       },
       {
-        "uri": "spotify:artist:2Z4QqhmV5Xw5vX2ZI70HOR",
         "name": "Joel Fletcher",
+        "uri": "spotify:artist:2Z4QqhmV5Xw5vX2ZI70HOR",
         "id": "2Z4QqhmV5Xw5vX2ZI70HOR"
       }
     ],
     "id": "6vZRwnf0PXFNDRtbSRllHK"
   },
   {
+    "name": "Stampede - Original Mix",
     "uri": "spotify:track:55LqAafhLoNmahQ9fkIOHY",
+    "link": "https://open.spotify.com/track/55LqAafhLoNmahQ9fkIOHY",
     "artists": [
       {
-        "uri": "spotify:artist:5X4LWwbUFNzPkEas04uU82",
         "name": "DVBBS",
+        "uri": "spotify:artist:5X4LWwbUFNzPkEas04uU82",
         "id": "5X4LWwbUFNzPkEas04uU82"
       }
     ],
     "id": "55LqAafhLoNmahQ9fkIOHY"
   },
   {
+    "name": "Wrong To Let You Go - VAANCE Remix",
     "uri": "spotify:track:4Q6frXrbRhLF04fQ0OUQSe",
+    "link": "https://open.spotify.com/track/4Q6frXrbRhLF04fQ0OUQSe",
     "artists": [
       {
-        "uri": "spotify:artist:6uku31mN2SKBGAIEM6Umgi",
         "name": "Man Cub",
+        "uri": "spotify:artist:6uku31mN2SKBGAIEM6Umgi",
         "id": "6uku31mN2SKBGAIEM6Umgi"
       },
       {
-        "uri": "spotify:artist:6jNwV0P142cXxXanOl9Ylo",
         "name": "APEK",
+        "uri": "spotify:artist:6jNwV0P142cXxXanOl9Ylo",
         "id": "6jNwV0P142cXxXanOl9Ylo"
       },
       {
-        "uri": "spotify:artist:4nEs5Ln0E5g3UtNu8suntA",
         "name": "April Bender",
+        "uri": "spotify:artist:4nEs5Ln0E5g3UtNu8suntA",
         "id": "4nEs5Ln0E5g3UtNu8suntA"
       }
     ],
     "id": "4Q6frXrbRhLF04fQ0OUQSe"
   },
   {
+    "name": "Amnesia",
     "uri": "spotify:track:4wlchHpERuZynzW2dJewyV",
+    "link": "https://open.spotify.com/track/4wlchHpERuZynzW2dJewyV",
     "artists": [
       {
-        "uri": "spotify:artist:2NYnrD2TqeY4xSy68mrcz7",
         "name": "DDRey",
+        "uri": "spotify:artist:2NYnrD2TqeY4xSy68mrcz7",
         "id": "2NYnrD2TqeY4xSy68mrcz7"
       }
     ],
     "id": "4wlchHpERuZynzW2dJewyV"
   },
   {
+    "name": "Two Of Us - Ryos VIP Mix",
     "uri": "spotify:track:42vbEL2P8st7sbYac4Jobp",
+    "link": "https://open.spotify.com/track/42vbEL2P8st7sbYac4Jobp",
     "artists": [
       {
-        "uri": "spotify:artist:7us9kFadl2fztbHSvlNk6M",
         "name": "Ryos",
+        "uri": "spotify:artist:7us9kFadl2fztbHSvlNk6M",
         "id": "7us9kFadl2fztbHSvlNk6M"
       }
     ],
     "id": "42vbEL2P8st7sbYac4Jobp"
   },
   {
+    "name": "Long Way Home",
     "uri": "spotify:track:7MyYDl38YYoNrG3XIkIKUh",
+    "link": "https://open.spotify.com/track/7MyYDl38YYoNrG3XIkIKUh",
     "artists": [
       {
-        "uri": "spotify:artist:2ojEZEmcQVC3vLNpcoo9rJ",
         "name": "Noah Neiman",
+        "uri": "spotify:artist:2ojEZEmcQVC3vLNpcoo9rJ",
         "id": "2ojEZEmcQVC3vLNpcoo9rJ"
       },
       {
-        "uri": "spotify:artist:00ib6xsUZ0etKHKU1AAOII",
         "name": "Jay Bombay",
+        "uri": "spotify:artist:00ib6xsUZ0etKHKU1AAOII",
         "id": "00ib6xsUZ0etKHKU1AAOII"
       }
     ],
     "id": "7MyYDl38YYoNrG3XIkIKUh"
   },
   {
+    "name": "Make Me Move",
     "uri": "spotify:track:5ZAUiOlYURVJEJ5ktV03v5",
+    "link": "https://open.spotify.com/track/5ZAUiOlYURVJEJ5ktV03v5",
     "artists": [
       {
-        "uri": "spotify:artist:2FF8wcGpikv5RFbAK1rvdZ",
         "name": "Culture Code",
+        "uri": "spotify:artist:2FF8wcGpikv5RFbAK1rvdZ",
         "id": "2FF8wcGpikv5RFbAK1rvdZ"
       },
       {
-        "uri": "spotify:artist:24CzPFC4y3bM4AkUnZfuAU",
         "name": "Karra",
+        "uri": "spotify:artist:24CzPFC4y3bM4AkUnZfuAU",
         "id": "24CzPFC4y3bM4AkUnZfuAU"
       }
     ],
     "id": "5ZAUiOlYURVJEJ5ktV03v5"
   },
   {
+    "name": "Way Back Home (feat. Conor Maynard) - Sam Feldt Festival Mix",
     "uri": "spotify:track:02krb5JiLLiLxv6uLEMrIZ",
+    "link": "https://open.spotify.com/track/02krb5JiLLiLxv6uLEMrIZ",
     "artists": [
       {
-        "uri": "spotify:artist:20gsENnposVs2I4rQ5kvrf",
         "name": "Sam Feldt",
+        "uri": "spotify:artist:20gsENnposVs2I4rQ5kvrf",
         "id": "20gsENnposVs2I4rQ5kvrf"
       }
     ],
     "id": "02krb5JiLLiLxv6uLEMrIZ"
   },
   {
+    "name": "Ritual",
     "uri": "spotify:track:0BxhpnfBTbnDfXi7mK4B6B",
+    "link": "https://open.spotify.com/track/0BxhpnfBTbnDfXi7mK4B6B",
     "artists": [
       {
-        "uri": "spotify:artist:7vk5e3vY1uw9plTHJAMwjN",
         "name": "Alan Walker",
+        "uri": "spotify:artist:7vk5e3vY1uw9plTHJAMwjN",
         "id": "7vk5e3vY1uw9plTHJAMwjN"
       }
     ],
     "id": "0BxhpnfBTbnDfXi7mK4B6B"
   },
   {
+    "name": "God Mode",
     "uri": "spotify:track:6jYUObC5Aeif5gHD1oELVo",
+    "link": "https://open.spotify.com/track/6jYUObC5Aeif5gHD1oELVo",
     "artists": [
       {
-        "uri": "spotify:artist:37awA8DFCAnCCL7aqYbDnD",
         "name": "Blasterjaxx",
+        "uri": "spotify:artist:37awA8DFCAnCCL7aqYbDnD",
         "id": "37awA8DFCAnCCL7aqYbDnD"
       },
       {
-        "uri": "spotify:artist:0xD6n0wj7aqV5g5LcRNBUd",
         "name": "RIELL",
+        "uri": "spotify:artist:0xD6n0wj7aqV5g5LcRNBUd",
         "id": "0xD6n0wj7aqV5g5LcRNBUd"
       }
     ],
     "id": "6jYUObC5Aeif5gHD1oELVo"
   },
   {
+    "name": "LOVE FOOLISH",
     "uri": "spotify:track:3hPFPOXY0ll2nZOS4oeaZM",
+    "link": "https://open.spotify.com/track/3hPFPOXY0ll2nZOS4oeaZM",
     "artists": [
       {
-        "uri": "spotify:artist:7n2Ycct7Beij7Dj7meI4X0",
         "name": "TWICE",
+        "uri": "spotify:artist:7n2Ycct7Beij7Dj7meI4X0",
         "id": "7n2Ycct7Beij7Dj7meI4X0"
       }
     ],
     "id": "3hPFPOXY0ll2nZOS4oeaZM"
   },
   {
+    "name": "NO GOOD REASON",
     "uri": "spotify:track:0hZs9kWnaewkXEufPYjbvf",
+    "link": "https://open.spotify.com/track/0hZs9kWnaewkXEufPYjbvf",
     "artists": [
       {
-        "uri": "spotify:artist:3ZZzT0naD25RhY2uZvIKkJ",
         "name": "EVERGLOW",
+        "uri": "spotify:artist:3ZZzT0naD25RhY2uZvIKkJ",
         "id": "3ZZzT0naD25RhY2uZvIKkJ"
       }
     ],
     "id": "0hZs9kWnaewkXEufPYjbvf"
   },
   {
+    "name": "Hush",
     "uri": "spotify:track:2rvpdbvSio3BsHCOnimivV",
+    "link": "https://open.spotify.com/track/2rvpdbvSio3BsHCOnimivV",
     "artists": [
       {
-        "uri": "spotify:artist:3ZZzT0naD25RhY2uZvIKkJ",
         "name": "EVERGLOW",
+        "uri": "spotify:artist:3ZZzT0naD25RhY2uZvIKkJ",
         "id": "3ZZzT0naD25RhY2uZvIKkJ"
       }
     ],
     "id": "2rvpdbvSio3BsHCOnimivV"
   },
   {
+    "name": "Popcorn",
     "uri": "spotify:track:49stInFMneLx13LmuVxqEM",
+    "link": "https://open.spotify.com/track/49stInFMneLx13LmuVxqEM",
     "artists": [
       {
-        "uri": "spotify:artist:77AiFEVeAVj2ORpC85QVJs",
         "name": "Steve Aoki",
+        "uri": "spotify:artist:77AiFEVeAVj2ORpC85QVJs",
         "id": "77AiFEVeAVj2ORpC85QVJs"
       },
       {
-        "uri": "spotify:artist:7e1BNCygl2Gf7CX8LrByPv",
         "name": "Ummet Ozcan",
+        "uri": "spotify:artist:7e1BNCygl2Gf7CX8LrByPv",
         "id": "7e1BNCygl2Gf7CX8LrByPv"
       },
       {
-        "uri": "spotify:artist:5vQfv3s2Z2SRdPZKr82ABw",
         "name": "Dzeko",
+        "uri": "spotify:artist:5vQfv3s2Z2SRdPZKr82ABw",
         "id": "5vQfv3s2Z2SRdPZKr82ABw"
       }
     ],
     "id": "49stInFMneLx13LmuVxqEM"
   },
   {
+    "name": "PYRO - Extended Mix",
     "uri": "spotify:track:77XnNnxkr3FkNF04HEq6JY",
+    "link": "https://open.spotify.com/track/77XnNnxkr3FkNF04HEq6JY",
     "artists": [
       {
-        "uri": "spotify:artist:3u45rXhQ0o9pUL24xlnf6e",
         "name": "Chester Young",
+        "uri": "spotify:artist:3u45rXhQ0o9pUL24xlnf6e",
         "id": "3u45rXhQ0o9pUL24xlnf6e"
       },
       {
-        "uri": "spotify:artist:4xt0qH1NubQexyAzDa9UlR",
         "name": "Castion",
+        "uri": "spotify:artist:4xt0qH1NubQexyAzDa9UlR",
         "id": "4xt0qH1NubQexyAzDa9UlR"
       }
     ],
     "id": "77XnNnxkr3FkNF04HEq6JY"
   },
   {
+    "name": "Heart Starts to Beat",
     "uri": "spotify:track:385h9lN4b8sw2qmxpAvTAQ",
+    "link": "https://open.spotify.com/track/385h9lN4b8sw2qmxpAvTAQ",
     "artists": [
       {
-        "uri": "spotify:artist:37awA8DFCAnCCL7aqYbDnD",
         "name": "Blasterjaxx",
+        "uri": "spotify:artist:37awA8DFCAnCCL7aqYbDnD",
         "id": "37awA8DFCAnCCL7aqYbDnD"
       },
       {
-        "uri": "spotify:artist:6S3KljEiIOWoLMUyZrkQUc",
         "name": "Marnik",
+        "uri": "spotify:artist:6S3KljEiIOWoLMUyZrkQUc",
         "id": "6S3KljEiIOWoLMUyZrkQUc"
       }
     ],
     "id": "385h9lN4b8sw2qmxpAvTAQ"
   },
   {
+    "name": "Live for the Night",
     "uri": "spotify:track:457p7UH7hoHrbA2iI4PSCA",
+    "link": "https://open.spotify.com/track/457p7UH7hoHrbA2iI4PSCA",
     "artists": [
       {
-        "uri": "spotify:artist:0Cd6nHYwecCNM1sVEXKlYr",
         "name": "Krewella",
+        "uri": "spotify:artist:0Cd6nHYwecCNM1sVEXKlYr",
         "id": "0Cd6nHYwecCNM1sVEXKlYr"
       }
     ],
     "id": "457p7UH7hoHrbA2iI4PSCA"
   },
   {
+    "name": "Home",
     "uri": "spotify:track:7zpMf6X2Ylipo6Ad8RwFC9",
+    "link": "https://open.spotify.com/track/7zpMf6X2Ylipo6Ad8RwFC9",
     "artists": [
       {
-        "uri": "spotify:artist:6OqSgClwQLHCr09un2NQmR",
         "name": "Newclaess",
+        "uri": "spotify:artist:6OqSgClwQLHCr09un2NQmR",
         "id": "6OqSgClwQLHCr09un2NQmR"
       }
     ],
     "id": "7zpMf6X2Ylipo6Ad8RwFC9"
   },
   {
+    "name": "Be the One - Extended Mix",
     "uri": "spotify:track:1ORg3HzKEE6xXrM2WJtyWr",
+    "link": "https://open.spotify.com/track/1ORg3HzKEE6xXrM2WJtyWr",
     "artists": [
       {
-        "uri": "spotify:artist:6OqSgClwQLHCr09un2NQmR",
         "name": "Newclaess",
+        "uri": "spotify:artist:6OqSgClwQLHCr09un2NQmR",
         "id": "6OqSgClwQLHCr09un2NQmR"
       }
     ],
     "id": "1ORg3HzKEE6xXrM2WJtyWr"
   },
   {
+    "name": "Maria Maria",
     "uri": "spotify:track:6scnPzPV3aHgsusrG9uHMZ",
+    "link": "https://open.spotify.com/track/6scnPzPV3aHgsusrG9uHMZ",
     "artists": [
       {
-        "uri": "spotify:artist:2wX6xSig4Rig5kZU6ePlWe",
         "name": "KSHMR",
+        "uri": "spotify:artist:2wX6xSig4Rig5kZU6ePlWe",
         "id": "2wX6xSig4Rig5kZU6ePlWe"
       },
       {
-        "uri": "spotify:artist:13NpuESz6tlK819yBs0PuS",
         "name": "Azteck",
+        "uri": "spotify:artist:13NpuESz6tlK819yBs0PuS",
         "id": "13NpuESz6tlK819yBs0PuS"
       }
     ],

@@ -6,6 +6,8 @@ name = "pypi"
 [packages]
 spotipy = "*"
 dataclasses-json = "*"
+pip = "*"
+pandas = "*"
 
 [dev-packages]
 
